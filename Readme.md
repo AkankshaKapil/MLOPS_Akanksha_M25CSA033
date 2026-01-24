@@ -72,16 +72,16 @@ Using:
 ## 📈 Training and Validation Curves (MNIST)
 
 ### ResNet–18 (Batch Size = 16)
-![MNIST ResNet18 Accuracy](graphs/mnist_resnet18_acc.png)
-![MNIST ResNet18 Loss](graphs/Mnist_resnet_18_loss.png)
+![MNIST ResNet18 Accuracy](Mnist_resnet18_acc.png)
+![MNIST ResNet18 Loss](Mnist_resnet_18_loss.png)
 
 ### ResNet–50 (Batch Size = 16)
-![MNIST ResNet50 Accuracy](graphs/mnist_resnet50_acc.png)
-![MNIST ResNet50 Loss](graphs/mnist_resnet50_loss.png)
+![MNIST ResNet50 Accuracy](Mnist_resnet50_acc.png)
+![MNIST ResNet50 Loss](Mnist_batch16_resnet_50.png)
 
 ### ResNet–50 (Batch Size = 32)
-![MNIST ResNet50 BS32 Accuracy](graphs/Mnist_resnet_50_32_acc.png)
-![MNIST ResNet50 BS32 Loss](graphs/Mnist_resnet_50_32_loss.png)
+![MNIST ResNet50 BS32 Accuracy](Mnist_resnet_50_32_acc.png)
+![MNIST ResNet50 BS32 Loss](Mnist_resnet_50_32_loss.png)
 
 ---
 
@@ -133,4 +133,5 @@ Using:
 - No pretrained weights were used
 - All results are reproducible
 - Experiments follow assignment guidelines
+
 
