@@ -1,4 +1,4 @@
-# DLOPs Assignment–1  
+# ML-DLOPs Assignment–1  
 **Deep Learning Operations: Experimental Analysis of CNNs and Classical Models**
 
 **Name:** Akanksha Kapil  
@@ -133,3 +133,4 @@ Using:
 - No pretrained weights were used
 - All results are reproducible
 - Experiments follow assignment guidelines
+
