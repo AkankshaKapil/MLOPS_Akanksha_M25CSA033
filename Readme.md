@@ -127,11 +127,15 @@ Using:
 ## 🔗 Colab Link
 📌 *((https://colab.research.google.com/drive/1zLO5PKjbKKEfmrqx6WWslbfoP-YFyQjM?usp=sharing))*
 
+## Best Models Link (as i was not able to upload the models on github due to size issue)
+- https://drive.google.com/drive/folders/1sovmtd1FlIFqHnMX4OLHWzZk0EZjrR30?usp=sharing
+
 ---
 
 ## ✅ Notes
 - No pretrained weights were used
 - All results are reproducible
 - Experiments follow assignment guidelines
+
 
 
