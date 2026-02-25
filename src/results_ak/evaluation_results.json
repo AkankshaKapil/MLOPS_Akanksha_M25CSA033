@@ -1,0 +1,68 @@
+{
+    "eval_loss": 3.5702600479125977,
+    "accuracy": 0.095625,
+    "f1_weighted": 0.09670962936414403,
+    "classification_report": {
+        "poetry": {
+            "precision": 0.045112781954887216,
+            "recall": 0.03,
+            "f1-score": 0.036036036036036036,
+            "support": 200.0
+        },
+        "comics_graphic": {
+            "precision": 0.021052631578947368,
+            "recall": 0.01,
+            "f1-score": 0.013559322033898305,
+            "support": 200.0
+        },
+        "mystery_thriller_crime": {
+            "precision": 0.050955414012738856,
+            "recall": 0.04,
+            "f1-score": 0.04481792717086835,
+            "support": 200.0
+        },
+        "fantasy_paranormal": {
+            "precision": 0.04712041884816754,
+            "recall": 0.045,
+            "f1-score": 0.04603580562659847,
+            "support": 200.0
+        },
+        "romance": {
+            "precision": 0.503030303030303,
+            "recall": 0.415,
+            "f1-score": 0.4547945205479452,
+            "support": 200.0
+        },
+        "young_adult": {
+            "precision": 0.029556650246305417,
+            "recall": 0.03,
+            "f1-score": 0.02977667493796526,
+            "support": 200.0
+        },
+        "history_biography": {
+            "precision": 0.0761904761904762,
+            "recall": 0.12,
+            "f1-score": 0.09320388349514563,
+            "support": 200.0
+        },
+        "children": {
+            "precision": 0.04398826979472141,
+            "recall": 0.075,
+            "f1-score": 0.05545286506469501,
+            "support": 200.0
+        },
+        "accuracy": 0.095625,
+        "macro avg": {
+            "precision": 0.10212586820706837,
+            "recall": 0.09562499999999999,
+            "f1-score": 0.09670962936414404,
+            "support": 1600.0
+        },
+        "weighted avg": {
+            "precision": 0.10212586820706837,
+            "recall": 0.095625,
+            "f1-score": 0.09670962936414403,
+            "support": 1600.0
+        }
+    }
+}
