@@ -1,6 +1,6 @@
 {
     "eval_loss": 2.671684503555298,
-    "accuracy": 0.0675,
+    "accuracy": 0.0956,
     "f1_weighted": 0.06699619360574,
     "classification_report": {
         "history_biography": {
