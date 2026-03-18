@@ -16,8 +16,8 @@ This assignment optimizes an English → Hindi Transformer translation model usi
 
 ```
 ├── en_to_hi.ipynb                        # Original baseline notebook (provided)
-├── M25CSA033_ass_4_tuned_en_to_hi.ipynb  # Ray Tune + Optuna implementation
-├── M25CSA033_ass_4_report.pdf            # Assignment report
+├── mlops-assignment4.ipynb  # Ray Tune + Optuna implementation
+├── M25CSA033_Assignment-4_report.pdf            # Assignment report
 └── README.md
 ```
 
