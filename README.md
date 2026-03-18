@@ -57,7 +57,7 @@ This assignment optimizes an English → Hindi Transformer translation model usi
 
 ---
 
-## Model Weights & Checkpoints
+## Model Weights 
 
 Hosted on HuggingFace (too large for GitHub):
 
@@ -70,36 +70,7 @@ Files available:
 
 ---
 
-## How to Load the Best Model
 
-```python
-import torch
-import pickle
-from model import Transformer  # or copy the Transformer class from the notebook
-
-# Load vocabs
-with open("en_vocab.pkl", "rb") as f:
-    en_vocab = pickle.load(f)
-with open("hi_vocab.pkl", "rb") as f:
-    hi_vocab = pickle.load(f)
-
-# Load model
-model = Transformer(
-    src_vocab_size=len(en_vocab),
-    tgt_vocab_size=len(hi_vocab),
-    d_model=512,
-    num_layers=6,
-    num_heads=8,
-    d_ff=1024,
-    max_len=50,
-    dropout=0.1047
-)
-model.load_state_dict(torch.load("M25CSA033_ass_4_best_model.pth", map_location="cpu"))
-model.eval()
-print("Model loaded successfully!")
-```
-
----
 
 ## Sample Translations
 
