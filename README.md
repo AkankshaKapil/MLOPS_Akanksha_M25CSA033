@@ -67,10 +67,10 @@ Assignment5/
 docker pull pytorch/pytorch:2.1.0-cuda11.8-cudnn8-runtime
 
 # Build container
-docker build -t dlops-ass5 .
+docker build -t dlops-assignment5 .
 
 # Run with GPU + mount project directory
-docker run --gpus all -it -v $(pwd):/workspace dlops-ass5
+docker run --gpus all -it -v $(pwd):/workspace dlops-assignment5
 ```
 
 ### 2. Install Python Dependencies
