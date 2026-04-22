@@ -1,1 +1,1 @@
-Question2: mIOU: 0.5123 and mDICE: 0.5246
+Question2: mIOU: 0.8127 and mDICE: 0.2694
